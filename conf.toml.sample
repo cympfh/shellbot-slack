@@ -1,0 +1,15 @@
+[slack]
+username = "eliza"
+icon = "https://i.imgur.com/HvLy8uE.jpg"
+channel = "#timeline"
+webhook = "Get From Incoming WebHooks"
+
+[command]
+allows = [
+    "dc",
+    "date",
+    "tenki",
+    "anical",
+    "amesh",
+    "mline"
+]
